@@ -390,4 +390,5 @@ con  `npm i --save-dev gulp-sourcemaps`
 
 ## ahora para js
 
+con `npm i gulp-terser-js`
 
